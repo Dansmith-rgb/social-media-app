@@ -1,0 +1,8 @@
+-create git repo
+-create .gitignore
+-create docker files
+
+
+superuser:
+  - daniel
+  -Chelseafc8
